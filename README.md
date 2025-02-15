@@ -1,24 +1,31 @@
-# **HW2 UML Diagrams - Question-Answer System**
+# HW2 UML Diagrams - Question-Answer System
 
-## **Overview**
-This repository contains the UML diagrams, source code, and documentation for **Individual Homework 2** in **CSE 360**. The project implements a simple **Question-Answer System** using Java with full CRUD operations.
+## Repository Access
+- **GitHub Repository URL**: [Insert GitHub Link Here]
+- **Access Credentials**: (If private, include username/password or invite the grader)
+- **Alternative Access**: (If using a token, specify how they should use it)
 
-## **Project Structure**
+## Project Overview
+This repository contains UML diagrams and source code for a **Question-Answer System**.
 
-## **UML Diagrams**
-The system design is documented using UML diagrams:
+## UML Diagrams
+- `UML_Class_Diagram.png`: Represents the class structure of the system.
+- `UML_Sequence_Diagram.drawio`: Shows interactions between system components.
 
-- 📌 **[UML Class Diagram](https://github.com/ishitabansal1/HW2_UML_Diagrams/blob/main/UML_Class_Diagram.drawio.png)**: Represents the relationships between `Question`, `Answer`, `Questions`, and `Answers` classes.
-- 📌 **[UML Sequence Diagram](https://github.com/ishitabansal1/HW2_UML_Diagrams/blob/main/UML_Sequence_Diagram.drawio.png)**: Illustrates the interaction between `User`, `QuestionService`, `AnswerService`, and `Database`.
+## Source Code Location
+The source code is located in the following directory:
+This directory contains Java files that implement the **Question-Answer System**, ensuring consistency with the **UML Class and Sequence Diagrams** provided.
 
-## **Features**
-✔️ **Create, Read, Update, Delete (CRUD) Operations** for Questions and Answers  
-✔️ **Persistent Storage Simulation**  
-✔️ **Basic Input Validation**  
-✔️ **Object-Oriented Design Principles Applied**
+### Source Code Files:
+- [`Main.java`](HW2_java/src/qa_system/Main.java) - Entry point of the program
+- [`Question.java`](HW2_java/src/qa_system/Question.java) - Defines question attributes and behaviors
+- [`Answer.java`](HW2_java/src/qa_system/Answer.java) - Defines answer attributes and behaviors
+- [`Questions.java`](HW2_java/src/qa_system/Questions.java) - Manages question-related CRUD operations
+- [`Answers.java`](HW2_java/src/qa_system/Answers.java) - Manages answer-related CRUD operations
 
-## **How to Run the Project**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ishitabansal1/HW2_UML_Diagrams.git
-   cd HW2_UML_Diagrams/HW2_java/src/qa_system/
+## How to Run
+Follow these steps to run the project on your system:
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/your-username/HW2_UML_Diagrams.git
