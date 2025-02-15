@@ -38,11 +38,17 @@ The **Java source code** is located in:
 
 ---
 
-## How to Run the Code
-To run the **Question-Answer System**, follow these steps: Navigate to the project directory cd HW2_UML_Diagrams/HW2_java/src/qa_system/ 
-Compile the Java files javac *.java
-Run the application java Main
+### How to Run the Code
 
-### **1. Clone the repository**
+To run the **Question-Answer System**, follow these steps:
+
+| Command | Description |
+|---------|------------|
+| `cd HW2_UML_Diagrams/HW2_java/src/qa_system/` | Navigate to the project directory |
+| `javac *.java` | Compile all Java files |
+| `java Main` | Run the application |
+
+
+### ** Clone the repository**
 ```bash
 git clone https://github.com/your-username/HW2_UML_Diagrams.git
