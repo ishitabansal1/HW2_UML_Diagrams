@@ -1,13 +1,13 @@
 # HW2 UML Diagrams - Question-Answer System
 
-## 📌 Repository Access
-- **GitHub Repository URL**: [Insert GitHub Link Here]
-- **Access Credentials**: (If private, include username/password or invite the grader)
-- **Alternative Access**: (If using a token, specify how they should use it)
+## Repository Access
+- **GitHub Repository URL**: https://github.com/ishitabansal1/HW2_UML_Diagrams.git
+- **Access Credentials**: (Public)
+- **Alternative Access**: (None)
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 This repository contains a **Question-Answer System**, implementing **CRUD (Create, Read, Update, Delete) operations** and **input validation** for:
 - **A `Question` class** for creating and managing questions.
 - **An `Answer` class** for creating and managing answers.
@@ -18,14 +18,14 @@ The project aligns with **UML Class and Sequence Diagrams** and covers all requi
 
 ---
 
-## 🎨 UML Diagrams
+## UML Diagrams
 The following diagrams are included to maintain consistency between **design and implementation**:
 - **UML Class Diagram** (`UML_Class_Diagram.png`) – Represents the system’s structure.
 - **UML Sequence Diagram** (`UML_Sequence_Diagram.drawio`) – Shows the interaction between system components.
 
 ---
 
-## 🗂️ Source Code Location
+## Source Code Location
 The **Java source code** is located in:
 ### **Files in `qa_system/` Package:**
 | File | Description |
@@ -38,8 +38,10 @@ The **Java source code** is located in:
 
 ---
 
-## 🚀 How to Run the Code
-To run the **Question-Answer System**, follow these steps:
+## How to Run the Code
+To run the **Question-Answer System**, follow these steps: Navigate to the project directory cd HW2_UML_Diagrams/HW2_java/src/qa_system/ 
+Compile the Java files javac *.java
+Run the application java Main
 
 ### **1. Clone the repository**
 ```bash
