@@ -44,7 +44,6 @@ To run the **Question-Answer System**, follow these steps:
 
 | Command | Description |
 |---------|------------|
-| `cd HW2_UML_Diagrams/HW2_java/src/qa_system/` | Navigate to the project directory |
 | `javac *.java` | Compile all Java files |
 | `java Main` | Run the application |
 
