@@ -45,8 +45,8 @@ To run the **Question-Answer System**, follow these steps:
 | Command | Description |
 |---------|------------|
 | `cd HW2_java/src/` | Navigating to the directory |
-| `javac *.java` | Compile all Java files |
-| `java Main` | Run the application |
+| `javac qa_system/*.java` | Compile all Java files |
+| `java qa_system.Main` | Run the application |
 
 
 ### ** Clone the repository**
